@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "avtest-vggabx": {
+      "hosting": {
+        "kanbanapp": [
+          "av-ngkanban"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "avtest-vggabx"
+  }
+}
